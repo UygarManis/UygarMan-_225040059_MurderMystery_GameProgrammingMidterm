@@ -1,0 +1,14 @@
+C:\Users\agita\source\repos\Murder\Murder\bin\Debug\net8.0\Murder.exe
+C:\Users\agita\source\repos\Murder\Murder\bin\Debug\net8.0\Murder.deps.json
+C:\Users\agita\source\repos\Murder\Murder\bin\Debug\net8.0\Murder.runtimeconfig.json
+C:\Users\agita\source\repos\Murder\Murder\bin\Debug\net8.0\Murder.dll
+C:\Users\agita\source\repos\Murder\Murder\bin\Debug\net8.0\Murder.pdb
+C:\Users\agita\source\repos\Murder\Murder\obj\Debug\net8.0\Murder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agita\source\repos\Murder\Murder\obj\Debug\net8.0\Murder.AssemblyInfoInputs.cache
+C:\Users\agita\source\repos\Murder\Murder\obj\Debug\net8.0\Murder.AssemblyInfo.cs
+C:\Users\agita\source\repos\Murder\Murder\obj\Debug\net8.0\Murder.csproj.CoreCompileInputs.cache
+C:\Users\agita\source\repos\Murder\Murder\obj\Debug\net8.0\Murder.dll
+C:\Users\agita\source\repos\Murder\Murder\obj\Debug\net8.0\refint\Murder.dll
+C:\Users\agita\source\repos\Murder\Murder\obj\Debug\net8.0\Murder.pdb
+C:\Users\agita\source\repos\Murder\Murder\obj\Debug\net8.0\Murder.genruntimeconfig.cache
+C:\Users\agita\source\repos\Murder\Murder\obj\Debug\net8.0\ref\Murder.dll
